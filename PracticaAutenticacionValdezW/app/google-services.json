@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21689524230",
+    "project_id": "ejemplologin-2a25c",
+    "storage_bucket": "ejemplologin-2a25c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21689524230:android:98911126a5aaa2bcefe387",
+        "android_client_info": {
+          "package_name": "valdez.wilber.practicaautenticacionvaldezw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1TC5uO-tfMJq8_1vx993BBOfawe5qr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
